@@ -1,0 +1,11 @@
+.card{
+    transition: all ease 0.3s;
+    cursor: pointer;
+}
+.card:hover{
+    box-shadow: 1px 1px 8px #d4ecff;
+    transform: translateY(-3px);
+}
+.card-img-top{
+    border-radius: 0;
+}
